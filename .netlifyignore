@@ -1,0 +1,22 @@
+# Arquivos a ignorar no build do Netlify
+*.pyc
+__pycache__/
+.env
+.env.local
+.venv/
+venv/
+env/
+*.log
+.git
+.gitignore
+node_modules/
+.DS_Store
+Dockerfile
+docker-compose.yml
+requirements.txt
+app.py
+militares.json
+voluntarios.json
+.pytest_cache/
+*.egg-info/
+.mypy_cache/

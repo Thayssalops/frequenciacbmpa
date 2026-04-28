@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "graduacao": "SD/QBM",
+        "nome": "SOFIA YUMI COELHO TANAKA",
+        "nome_guerra": "SOFIA"
+    },
+    {
+        "id": 2,
+        "graduacao": "2° TEN QOABM",
+        "nome": "EMANUEL LOBATO RODRIGUES ",
+        "nome_guerra": "L RODRIGUES"
+    },
+    {
+        "id": 3,
+        "graduacao": "SD/QBM",
+        "nome": "ALVARO GUILHERME DE FREITAS SILVA",
+        "nome_guerra": "GUILHERME"
+    },
+    {
+        "id": 4,
+        "graduacao": "SD/QBM",
+        "nome": "Tácio Pereira de Medeiros",
+        "nome_guerra": "TÁCIO"
+    },
+    {
+        "id": 5,
+        "graduacao": "CB/QBM",
+        "nome": "WALLAN CRISTHIAN ALMEIDA BRAGA",
+        "nome_guerra": "CRISTHIAN"
+    },
+    {
+        "id": 7,
+        "graduacao": "2° SGT QBM",
+        "nome": "CLELSON FERREIRA MORAES",
+        "nome_guerra": "CLELSON"
+    },
+    {
+        "id": 8,
+        "graduacao": "3° SGT QBM",
+        "nome": "DENISIO PEDRO DE MACEDO MEDEIROS",
+        "nome_guerra": "MEDEIROS"
+    },
+
+    {
+        "id": 8,
+        "graduacao": "3° SGT QBM",
+        "nome": "DENISIO PEDRO DE MACEDO MEDEIROS",
+        "nome_guerra": "MEDEIROS"
+    },
+    {
+        "id": 9,
+        "graduacao": "3° SGT QBM",
+        "nome": "DIEGO PAIVA VIANA",
+        "nome_guerra": "P VIANA"
+    },
+    {
+        "id": 10,
+        "graduacao": "3° SGT QBM",
+        "nome": "WILLIAMS THIAGO CARDOSO MOREIRA",
+        "nome_guerra": "MOREIRA"
+    },
+    {
+        "id": 11,
+        "graduacao": "CB QBM",
+        "nome": "ARTHUR NASCIMENTO DA CÂMARA",
+        "nome_guerra": "CÂMARA"
+    },
+    {
+        "id": 12,
+        "graduacao": "CB QBM",
+        "nome": "CARLÍRIO THIAGO MOREIRA REDIG",
+        "nome_guerra": "CARLÍRIO"
+    }
+]

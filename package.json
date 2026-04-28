@@ -1,0 +1,20 @@
+{
+  "name": "gestao-interna-dtic",
+  "version": "1.0.0",
+  "description": "Gestão Interna DTIC - Netlify Ready",
+  "private": true,
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'Building frontend...'",
+    "start": "netlify dev",
+    "functions:build": "esbuild netlify/functions --bundle --platform=node --target=es2020"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0",
+    "netlify-cli": "^17.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.0.0"
+  }
+}
